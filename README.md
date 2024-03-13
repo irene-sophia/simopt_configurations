@@ -3,7 +3,7 @@ This repository accompanies the paper "Simulation-optimization configurations fo
 
 The optimization algorithm can be found at https://github.com/irene-sophia/Platypus
 
-The folders _cleaned data_ and _models_ contain all software and results for: 
+The folders _cleaned data_ and _models_ contain all results and software for: 
 - Sequential Simulation Optimization (abbreviated as _seq_ in file names), solved with MIP solver CBC (https://github.com/coin-or/Cbc)
 - Sequential Simulation Optimization (_seq_), solved with metaheuristic Borg
 - Simulation Model Optimization (abbreviated as _smo_ in file names), solved with metaheuristic Borg
