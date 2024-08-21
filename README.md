@@ -1,5 +1,5 @@
 # Simulation-Optimization Configurations
-This repository accompanies the paper "Simulation-optimization configurations for real-time decision-making in fugitive interception". 
+This repository accompanies the paper "Simulation-optimization configurations for real-time decision-making in fugitive interception" (https://doi.org/10.1016/j.simpat.2024.102923). 
 
 The optimization algorithm can be found at https://github.com/irene-sophia/Platypus
 
